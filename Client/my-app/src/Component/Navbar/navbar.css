@@ -1,0 +1,33 @@
+.navbarr{
+    width: 100%;
+  
+
+ 
+   
+
+}
+.navbar{
+    min-height: 75px;
+   
+}
+
+.collapse{
+   margin-left: 30%;
+}
+#loginn{
+    margin-left: auto;
+}
+.nav-link,h1{
+    font-weight: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff !important;
+    padding-left: 30px;
+    letter-spacing: 2px;
+}
+.nav-link:hover{
+    background-color: rgb(124, 10, 10);
+    border-radius: 7px;
+  }
+.Drop-down{
+    margin-left: 220px;
+}

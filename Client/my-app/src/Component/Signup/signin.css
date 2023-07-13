@@ -1,0 +1,20 @@
+   
+    input[type=text],[type=password],[type=email],[type=number] {
+        border: none;
+        border-bottom: 2px solid rgb(33, 33, 33);
+        background-color:	#ffff;
+      }
+.form-div{
+    background-color:#ffff;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-radius: 5%;
+    color: black;
+    border: 6px solid;
+    border-color: aliceblue;
+    margin-top: 10%;
+    
+}
+button{
+    margin-left: 40%;
+}

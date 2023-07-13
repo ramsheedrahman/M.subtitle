@@ -1,0 +1,14 @@
+/* table,th,td{
+    border: solid 2px;
+} */
+.review{
+    font-family: 'Noto Serif Malayalam', serif;
+    color: white;
+}
+
+.table-dark,tr,th,td{
+    background-color: rgb(105, 97, 88);
+    border: 1px solid white;
+    color: azure;
+    text-align: center;
+}

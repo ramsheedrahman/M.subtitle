@@ -1,0 +1,11 @@
+.main{
+    margin-top: 150px;
+}
+.moviereview{
+    font-family: 'Noto Serif Malayalam', serif;
+    font-size: larger;
+}
+img{
+  border: 8px solid white;
+  border-radius: 6%;
+}

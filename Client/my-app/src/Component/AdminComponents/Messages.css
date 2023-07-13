@@ -1,0 +1,19 @@
+.message-box{
+    width: 600px;
+    border: solid 5px white;
+    border-radius: 20px;
+    word-wrap: break-word;
+    background-color: rgb(13, 13, 12);
+    padding: 5px;
+}
+.name,.email{
+    font-weight: bolder;
+}
+.date-time{
+    margin-left: 80%;
+    font-size:small;
+
+}
+.message{
+    background-color: rgb(37, 37, 37);
+}

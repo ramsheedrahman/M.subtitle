@@ -1,0 +1,39 @@
+.movielist{
+    width: 100%;
+    height: 100vh;
+    margin-top: 75px;
+ 
+    
+}
+
+
+   
+.card{
+    width: 240px;
+    height: 350px;
+    background-color:transparent;
+    margin-top: 20%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-img-top{
+    width: 230px;
+   
+    height: 350px;
+    max-height: 300px;
+    border: 4px solid white;
+    border-radius: 6px;
+   
+}
+.card-text{
+    color: #ffff;
+    
+    font-weight: bold;
+    font-size: large;
+    
+}
+
+.card:hover {
+    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
